@@ -65186,7 +65186,7 @@ $S:393}
 A.pN.prototype={}
 A.ahd.prototype={
 $0(){var s=t.N
-return new A.qk($.dj().$1$0(t.i2),A.aA(["Access-Control-Allow-Origin","*","Content-Type","application/json; charset=utf-8"],s,s))},
+return new A.qk($.dj().$1$0(t.i2),A.aA(["redirect","follow","Access-Control-Allow-Origin","*","Content-Type","application/json; charset=utf-8"],s,s))},
 $S:394}
 A.ahe.prototype={
 $0(){return new A.pr($.dj().$1$0(t.Yk),$.dj().$1$0(t.i2))},
